@@ -1,0 +1,7 @@
+{
+    "username": "",
+    "password": "",
+    "siteURLs": [],
+    "loginURL": "https://172.16.1.1:8090/login.xml",
+    "logoutURL": "https://172.16.1.1:8090/logout.xml"
+}

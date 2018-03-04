@@ -1,0 +1,28 @@
+{
+  "name": "@dexter08/bitnet",
+  "version": "1.0.6",
+  "description": "A simple CLI for students of BIT Mesra Ranchi, India, allowing them to login and logout of their cyberoam accounts. Cyberoam is the network login portal in BIT Mesra.",
+  "main": "app.js",
+  "bin": {
+    "bitnet": "./app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "network",
+    "login",
+    "cyberoam",
+    "bit",
+    "mesra",
+    "CLI"
+  ],
+  "author": "Paritosh Sharma <paritosh0807@gmail.com> (https://paritosh.xyz/)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "opn": "^5.2.0",
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  }
+}
